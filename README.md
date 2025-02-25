@@ -1,7 +1,7 @@
 # Team-Astro
 Team-Astro-Data-Science-Project
 
-#Team Members are Listed alphabetically.
+# Team Members are Listed alphabetically.
 
 | Name            |
 |-----------------|
